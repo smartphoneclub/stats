@@ -11,3 +11,5 @@ From the book "How to Break Up With Your Phone" by Catherine Price
 - "Nearly 5 out of 10 Americans agree with this statement: 'I can't imagine my life without my smartphone'."
 - "Nearly 1 out of every 10 American adults admit to checking their phones during sex."
 - "According to the 2017 edition of the American Psychological Association's yearly Stress in America report, nearly two-thirds of American adults agree that periodically 'unplugging' or taking a 'digital detox' would be good for their mental health. And yet barely a quarter of those people have actually done so themselves."
+- "Gloal ad spening on social media in 2016 was 31 billion, almost double what it was the year before."
+- "A New York Times analysis calculated that as of 2014, Facebook users were spending a collective 39,757 years worth of attention on the site, every single day."
